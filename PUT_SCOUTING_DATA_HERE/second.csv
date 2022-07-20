@@ -1,0 +1,6 @@
+matchnum,team,hcselect1,hcselect2,habpoints,carss,hpss,cargo,hp,carh_Low,carh_Medium,carh_High,carh_None,hph_Low,hph_Medium,hph_High,hph_None,hcs,brickbot,defensive_attempt,comments
+1,1189,Hatch Panel,Cargo,0,1,2,3,4,,,true,,,true,,,3,Yes,Yes,This is a comment
+3,4,Cargo,Cargo,3,98,67,8,9,,,true,,,,true,,12,No,Yes,jkhkhk
+10,1123,Cargo,Cargo,3,123,1234,1324,1324,,true,,,,,true,,6,Yes,Yes,134
+4,2,Hatch Panel,Cargo,3,123,13241,324,432,,true,,,true,,,,0,Yes,Yes,s12
+1222,2222,Hatch Panel,Hatch Panel,0,123,123,123,123,,true,,,,,true,,3,No,Yes,123
