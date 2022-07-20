@@ -6,3 +6,6 @@ So you've collected scouting data using ghScouting. However, such data was colle
 
 - Add all csv files to folder conveniently named `PUT_SCOUTING_DATA_HERE`
 - Run `py combiner.py`
+- A `combinedResults.csv` file should appear!
+
+*Very complicated code-DO NOT OPEN COMBINER.PY*

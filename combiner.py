@@ -1,6 +1,8 @@
 import glob
 import csv
 
+#NEVER GONNA GIVE U UP......
+
 path = "PUT_SCOUTING_DATA_HERE\*.csv"
 fileCounter = 0
 combinedCSV = []
